@@ -2,8 +2,8 @@
     "version": 3,
     "mappings": "AAsBA,AAAA,IAAI,CAAC;EArBD,KAAK,EAsBW,GAAG;EAXf,SAAS,EAAE,IAAI;EACf,gBAAgB,EAAE,IAAI;CAW7B",
     "sources": [
-        "022_조건문.scss"
+        "022_조건문.scss"
     ],
     "names": [],
-    "file": "022_조건문.css"
+    "file": "022_조건문.css"
 }
